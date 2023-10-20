@@ -1,4 +1,3 @@
- /********** 使用short变量k和p，在下面写出满足任务要求的表达式**********/
 
 #include<stdio.h>
 #include<string.h>
