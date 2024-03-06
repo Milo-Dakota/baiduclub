@@ -11,6 +11,7 @@ int main() {
     
     short d = p >> 8;
     printf("%d\n",c + d);
+    printf("hello world);
     return 0;
 }
 
